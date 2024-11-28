@@ -1,1 +1,1 @@
-# Brain-Tumor-Segementation
+# Brain-Tumor-Segmentation
